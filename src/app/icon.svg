@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Body -->
+  <ellipse cx="16" cy="20" rx="10" ry="8" fill="#f59e0b"/>
+  <!-- Head -->
+  <circle cx="16" cy="11" r="7" fill="#f59e0b"/>
+  <!-- Left ear -->
+  <ellipse cx="10" cy="7" rx="3" ry="5" fill="#d97706" transform="rotate(-15 10 7)"/>
+  <!-- Right ear -->
+  <ellipse cx="22" cy="7" rx="3" ry="5" fill="#d97706" transform="rotate(15 22 7)"/>
+  <!-- Left eye -->
+  <circle cx="13" cy="10" r="1.5" fill="#1c1917"/>
+  <!-- Right eye -->
+  <circle cx="19" cy="10" r="1.5" fill="#1c1917"/>
+  <!-- Nose -->
+  <ellipse cx="16" cy="13.5" rx="2" ry="1.2" fill="#1c1917"/>
+  <!-- Tail -->
+  <path d="M26 18 Q31 12 28 8" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Tag -->
+  <circle cx="16" cy="22" r="2.5" fill="#3b82f6"/>
+  <text x="16" y="23" text-anchor="middle" font-size="3" fill="white" font-family="sans-serif" font-weight="bold">T</text>
+</svg>
